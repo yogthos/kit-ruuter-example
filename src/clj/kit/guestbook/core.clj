@@ -6,7 +6,7 @@
     [kit.guestbook.env :refer [defaults]]
 
     ;; Edges        
-    [kit.edge.utils.repl] 
+    #_[kit.edge.utils.repl] 
     [kit.edge.server.http-kit]
     [kit.guestbook.web.handler]
 

@@ -5,7 +5,7 @@
            :prod :prod}
 
 
- :repl/server
+ #_#_:repl/server
  {:port #long #or [#env REPL_PORT 7000]
   :host #or [#env REPL_HOST "0.0.0.0"]}
 
